@@ -1,0 +1,10 @@
+[
+  { "name": "C#", "value": 85 },
+  { "name": "JavaScript", "value": 85 },
+  { "name": "HTML/CSS", "value": 95 },
+  { "name": "Angular", "value": 90 },
+  { "name": "ReactJS", "value": 80 },
+  { "name": "MS SQL Server", "value": 75 },
+  { "name": "AWS", "value": 60 },
+  { "name": "Azure", "value": 60 }
+]
